@@ -1,5 +1,12 @@
 Welcome to the General Assembly Introduction to Data Science Workshop page.  Here I'll be assembling slides, data, additional references to follow-up after class.
 
+##General Resources
+####Books
+- [Elements of Statistical Learning (great reference for the theory behind a lot of the techniques)](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
+- [Data Mining With R (good case studies and code examples)](http://www.dcc.fc.up.pt/~ltorgo/DataMiningWithR/)
+- [Machine Learning For Hackers (more code examples and walkthroughs)](https://github.com/johnmyleswhite/ML_for_Hackers)
+- [R & Data Mining: Examples and Case Studies](http://cran.r-project.org/doc/contrib/Zhao_R_and_data_mining.pdf)
+
 ##Lesson 1 - Introduction to Data Science:
 
 ###Handouts
