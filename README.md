@@ -3,7 +3,7 @@ Welcome to the General Assembly Introduction to Data Science Workshop page.  Her
 ##Lesson 1 - Introduction to Data Science:
 
 ###Handouts
-- [Building first linear model](https://github.com/hptdss/DS-Intro/tree/master/slides/lesson05.pdf)
+- [Building first linear model](https://github.com/hptdss/DS-Intro/wiki/Building-your-first-Linear-Model)
 
 ###Additional resources
 - [Video Tutorials for Command Line Basics](http://drupalize.me/series/command-line-basics-series)
