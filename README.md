@@ -27,3 +27,16 @@ Welcome to the General Assembly Introduction to Data Science Workshop page.  Her
 - [Data-jujitsu](http://radar.oreilly.com/2012/07/data-jujitsu.html)
 - [Bulding Data Science Teams](http://radar.oreilly.com/2011/09/building-data-science-teams.html)
 
+##Lesson 2 - Introduction to Machine Learning
+
+###Handouts
+- [Class Exercise](https://github.com/hptdss/DS-Intro/wiki/Lesson-02:-Exercise)
+
+###Additional resources
+- [A few useful things to know about ML](http://www.astro.caltech.edu/~george/ay122/cacm12.pdf)
+- [Top 10 algos in data mining](http://www.cs.uvm.edu/~icdm/algorithms/10Algorithms-08.pdf)
+- [Chatterjee datasets](http://www.ats.ucla.edu/stat/sas/examples/chp/chpsas_dl.htm)
+- [Update syntax](http://cran.r-project.org/doc/manuals/R-intro.html#Updating-fitted-models)
+- [Stepwise regression example](http://ww2.coastal.edu/kingw/statistics/R-tutorials/multregr.html)
+- [Testing the assumptions of linear regression](http://people.duke.edu/~rnau/testing.htm)
+
