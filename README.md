@@ -10,7 +10,7 @@ Welcome to the General Assembly Introduction to Data Science Workshop page.  Her
 ##Lesson 1 - Introduction to Data Science
 
 ###Slides
-- [Introduction to Data Science](https://github.com/hptdss/DS-Intro/slides/lecture01.pdf)
+- [Introduction to Data Science](https://github.com/hptdss/DS-Intro/tree/master/slides/lecture01.pdf)
 
 ###Handouts
 - [Building first linear model](https://github.com/hptdss/DS-Intro/wiki/Building-your-first-Linear-Model)
@@ -33,7 +33,7 @@ Welcome to the General Assembly Introduction to Data Science Workshop page.  Her
 ##Lesson 2 - Introduction to Machine Learning
 
 ###Slides
-- [Introduction to Machine Learning](https://github.com/hptdss/DS-Intro/slides/lecture02.pdf)
+- [Introduction to Machine Learning](https://github.com/hptdss/DS-Intro/tree/master/slides/lecture02.pdf)
 
 ###Handouts
 - [Class Exercise](https://github.com/hptdss/DS-Intro/wiki/Lesson-02:-Exercise)
