@@ -1,4 +1,4 @@
-Welcome to the General Assembly Introduction to Data Science Workshop page.  Here I'll be assembling interesting reads, data, additional references to follow-up after class.
+Welcome to the General Assembly Introduction to Data Science Course page.  Here I'll be assembling interesting reads, data, additional references to follow-up after class.
 
 ##General Resources
 ####Books
