@@ -50,5 +50,8 @@ Welcome to the General Assembly Introduction to Data Science Course page.  Here 
 - [Update syntax](http://cran.r-project.org/doc/manuals/R-intro.html#Updating-fitted-models)
 - [Stepwise regression example](http://ww2.coastal.edu/kingw/statistics/R-tutorials/multregr.html)
 - [Testing the assumptions of linear regression](http://people.duke.edu/~rnau/testing.htm)
+- [Interpreting the R output of Linear Regression](http://dss.princeton.edu/online_help/analysis/interpreting_regression.htm)
 
+###Home Work 
+- [Details for Home Works 1](https://github.com/hptdss/DS-Intro/tree/master/homeworks/Home Work 1.pdf)
 
