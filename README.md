@@ -55,3 +55,11 @@ Welcome to the General Assembly Introduction to Data Science Course page.  Here 
 ###Home Work 
 - [Details for Home Works 1](https://github.com/hptdss/DS-Intro/tree/master/homeworks/Home Work 1.pdf)
 
+## Lesson 3 - KNN Classification
+
+###Slides
+- [KNN Classification](https://github.com/hptdss/DS-Intro/tree/master/slides/lecture03.pdf)
+
+###Handouts
+- [Class Exercise](https://github.com/hptdss/DS-Intro/wiki/KNN-Iris-Walkthrough)
+
