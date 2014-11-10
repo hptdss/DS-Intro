@@ -52,6 +52,11 @@ Welcome to the General Assembly Introduction to Data Science Course page.  Here 
 - [Testing the assumptions of linear regression](http://people.duke.edu/~rnau/testing.htm)
 - [Interpreting the R output of Linear Regression](http://dss.princeton.edu/online_help/analysis/interpreting_regression.htm)
 
+###Python specific resources
+- [Many, many free python related books, for all levels](http://pythonbooks.revolunet.com/)
+- [pandas: powerful Python data analysis toolkit](http://pandas.pydata.org/pandas-docs/stable/pandas.pdf)
+- [Statistical analysis of ﬂow data using Python and Redis](http://resources.sei.cmu.edu/asset_files/Presentation/2013_017_001_51255.pdf)
+
 ###Home Work 
 - [Details for Home Works 1](https://github.com/hptdss/DS-Intro/tree/master/homeworks/Home Work 1.pdf)
 
